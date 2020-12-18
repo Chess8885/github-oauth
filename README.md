@@ -17,6 +17,6 @@ npm start
 
 ## Screenshot
 
-![Illustration0](login.jpg)
-![Illustration1](autorization.jpg)
-![Illustration2](success.jpg)
+![Illustration0](login.png)
+![Illustration1](autorization.png)
+![Illustration2](success.png)
